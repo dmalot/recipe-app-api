@@ -72,6 +72,7 @@ WSGI_APPLICATION = 'app.wsgi.application'
 
 # Database
 # https://docs.djangoproject.com/en/3.2/ref/settings/#databases
+#just testing out github actions is working or not.
 
 DATABASES = {
     'default': {
